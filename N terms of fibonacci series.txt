@@ -1,0 +1,16 @@
+3 start first_ele_loc:100
+length:10
+start:7 first_ele_loc begining
+run:5 length one halt
+7 f3 begining:0
+7 f2 f1
+7 f3 f2
+1 f1 f2 f3
+1 one begining begining
+2 length one length
+3 run
+halt:9
+f1:0
+f2:1
+f3:0
+one:1
