@@ -1,0 +1,21 @@
+3 run ele_loc:57 length:5
+result:2
+run:1 ele_loc begin begin
+1 ele_loc length last
+2 last one last
+1 length end end
+back:5 start end jump
+9
+jump:4 begin:0 last:0 yes
+7 one result
+halt:9
+yes:1 one start start
+2 end one end
+1 one begin begin
+2 last one last
+3 back
+one:1
+two:2
+start:1
+end:0
+1 8 8 8 1
