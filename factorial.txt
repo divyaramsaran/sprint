@@ -1,0 +1,19 @@
+3 5 num:1 res:1
+4 num zero jp
+4 num one jp
+7 num var
+7 num var2
+7 num add
+two:2 var one var
+7 one count
+bck:4 var count jmp
+1 add var2 add
+1 one count count
+3 bck
+jmp:7 add var2
+4 var one jump
+3 two
+jump:7 add res
+9
+jp:9 zero:0 one:1
+var:0 var2:0 add:0 count:0
