@@ -1,0 +1,15 @@
+3 start address:12
+length:5
+start:7 zero 100
+7 address address1
+back:1 address1:0 100 100
+4 count length halt
+
+1 one address1 address1
+1 count one count
+3 back
+
+halt:9
+one:1
+zero:0
+count:0
