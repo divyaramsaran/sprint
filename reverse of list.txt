@@ -1,0 +1,29 @@
+3 5 first:70 length:5
+7 first start
+1 length first last
+7 length end
+2 last one last
+5 length two halt
+back:5 start last  loop
+9
+loop:7 start f1
+7 start f2
+7 last l1
+7 last l2
+
+7 f1:0 temp
+7 l1:0 f2:0
+7 temp l2:0
+
+2 last one last
+1 start one start
+2 end one end
+3  back
+halt:9
+start:0
+end:0
+last:0
+temp:0
+two:2
+one:1
+1 2 3 4 5 
