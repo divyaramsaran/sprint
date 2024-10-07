@@ -1,0 +1,24 @@
+3 start first_num:56 result:0
+start:7 first_num var
+7 var:0 rem
+
+back:5 rem ten amp
+2 rem ten rem
+1 quo one quo
+1 count one count 
+3 back
+amp:5 quo zero halt
+
+1 result rem result
+4 quo zero halt
+7 quo rem
+7 zero quo
+3 back
+halt:9
+quo:0
+count:0
+zero:0
+one:1
+ten:10
+rem:0
+100
