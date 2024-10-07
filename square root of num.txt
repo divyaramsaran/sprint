@@ -1,0 +1,28 @@
+3 5 num:4 res:0
+4 num zero hlt
+5 num four jump1
+5 num nine two
+seven:7 count1 count
+7 add1 add
+7 in1 inc
+bck:4 count one jump2
+1 add1 inc add
+7 add inc
+2 count one count
+3 bck
+jump2:5 add num jump3
+4 add num jump3
+2 in1 one in1
+two:7 in1 res
+hlt:9
+jump3:1 add1 one add1
+1 count1 one count1
+1 in1 one in1
+3 seven
+count1:2 add1:2
+in1:2 zero:0
+count:0 add:0
+inc:0 four:4
+nine:9 one:1
+jump1:7 one res
+9
