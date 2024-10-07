@@ -1,0 +1,11 @@
+3 7 first_element length:5
+target:7 result:0
+back:4 checked length halt
+4 address:first_element target found
+1 checked one checked
+1 address one address
+3 back
+found:7 one result
+halt:9
+checked:0 one:1 
+first_element:1 2 3 4 5
